@@ -42,10 +42,10 @@ My name is Mohd Asif Mansoori. I am a fullstack developer from India 🇮🇳 .
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=m0hdasif&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=Github%20Stats&count_private=true" alt="m0hdasif"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=m0hdasif&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=Github%20Stats&count_private=true" alt="m0hdasif"  /> -->
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=m0hdasif&theme=chartreuse-dark" />
-<!--  -->
+
 <hr/>
 
 ![Profile viwes](https://pageview.vercel.app/?github_user=m0hdasif)
